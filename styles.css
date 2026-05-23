@@ -1,0 +1,25 @@
+body {
+  font-family: system-ui, sans-serif;
+  padding: 64px;
+  background: #fafafa;
+}
+
+.hero-title {
+  font-size: 72px;
+  color: #c85656;
+  margin-bottom: 24px;
+}
+
+.cta {
+  font-size: 16px;
+  padding: 12px 24px;
+  background: #1a1a1a;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.cta:hover {
+  background: #333;
+}
